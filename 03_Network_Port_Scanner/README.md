@@ -73,7 +73,7 @@ PORT      STATE    SERVICE       BANNER
 
 - TCP/IP 3-Way Handshake 및 소켓 통신 원리 이해
 - 스레드(Thread) 기반 병렬 처리로 스캔 성능 최적화
-- Well-Known Port(0~1023), Registered Port(1024~49151) 구분 이해
+- Well-Known Port(0-1023), Registered Port(1024-49151) 구분 이해
 - 공격 표면(Attack Surface) 개념 — 불필요한 포트 노출이 미치는 보안 영향 분석
 - Nmap 등 전문 스캐너와의 동작 방식 비교를 통한 심화 학습
 
